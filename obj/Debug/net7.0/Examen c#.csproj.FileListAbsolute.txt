@@ -1,0 +1,18 @@
+C:\Users\hamza\Desktop\Examen c#\obj\Debug\net7.0\Examen c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\Desktop\Examen c#\obj\Debug\net7.0\Examen c#.AssemblyInfoInputs.cache
+C:\Users\hamza\Desktop\Examen c#\obj\Debug\net7.0\Examen c#.AssemblyInfo.cs
+C:\Users\hamza\Desktop\Examen c#\obj\Debug\net7.0\Examen c#.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\Examen\obj\Debug\net7.0\Examen c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\Desktop\Examen\obj\Debug\net7.0\Examen c#.AssemblyInfoInputs.cache
+C:\Users\hamza\Desktop\Examen\obj\Debug\net7.0\Examen c#.AssemblyInfo.cs
+C:\Users\hamza\Desktop\Examen\obj\Debug\net7.0\Examen c#.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\Examen\bin\Debug\net7.0\Examen c#.exe
+C:\Users\hamza\Desktop\Examen\bin\Debug\net7.0\Examen c#.deps.json
+C:\Users\hamza\Desktop\Examen\bin\Debug\net7.0\Examen c#.runtimeconfig.json
+C:\Users\hamza\Desktop\Examen\bin\Debug\net7.0\Examen c#.dll
+C:\Users\hamza\Desktop\Examen\bin\Debug\net7.0\Examen c#.pdb
+C:\Users\hamza\Desktop\Examen\obj\Debug\net7.0\Examen c#.dll
+C:\Users\hamza\Desktop\Examen\obj\Debug\net7.0\refint\Examen c#.dll
+C:\Users\hamza\Desktop\Examen\obj\Debug\net7.0\Examen c#.pdb
+C:\Users\hamza\Desktop\Examen\obj\Debug\net7.0\Examen c#.genruntimeconfig.cache
+C:\Users\hamza\Desktop\Examen\obj\Debug\net7.0\ref\Examen c#.dll
